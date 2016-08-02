@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeAttack.CSharp.Plugins", "CubeAttack.CSharp.Plugins.csproj", "{6E91345B-0EC8-E9A8-3FCD-FB3CEB823E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeAttack.CSharp", "CubeAttack.CSharp.csproj", "{79246726-CE8A-CEAA-C7A3-CAF93059BAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeAttack.CSharp.Editor", "CubeAttack.CSharp.Editor.csproj", "{E0913C15-02FF-22C0-4C96-F8D23A568903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E91345B-0EC8-E9A8-3FCD-FB3CEB823E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E91345B-0EC8-E9A8-3FCD-FB3CEB823E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E91345B-0EC8-E9A8-3FCD-FB3CEB823E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E91345B-0EC8-E9A8-3FCD-FB3CEB823E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79246726-CE8A-CEAA-C7A3-CAF93059BAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79246726-CE8A-CEAA-C7A3-CAF93059BAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79246726-CE8A-CEAA-C7A3-CAF93059BAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79246726-CE8A-CEAA-C7A3-CAF93059BAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0913C15-02FF-22C0-4C96-F8D23A568903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0913C15-02FF-22C0-4C96-F8D23A568903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0913C15-02FF-22C0-4C96-F8D23A568903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0913C15-02FF-22C0-4C96-F8D23A568903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
